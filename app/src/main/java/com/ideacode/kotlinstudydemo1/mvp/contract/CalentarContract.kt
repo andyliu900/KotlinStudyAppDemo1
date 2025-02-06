@@ -10,7 +10,7 @@ import com.ideacode.kotlinstudydemo1.bean.CalentarDayData
 import com.ideacode.kotlinstudydemo1.bean.CalentarDayResult
 
 /**
- * Copyright (C), 2021-2025, 百度阿波罗
+ * Copyright (C), 2021-2025, 无业游民
  * @ProjectName:    KotlinStudyDemo1
  * @Package:        com.ideacode.kotlinstudydemo1.mvp.contract
  * @ClassName:      CalentarContract

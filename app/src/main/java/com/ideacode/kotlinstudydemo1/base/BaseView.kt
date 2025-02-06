@@ -4,7 +4,7 @@
 package com.ideacode.kotlinstudydemo1.base
 
 /**
- * Copyright (C), 2021-2025, 百度阿波罗
+ * Copyright (C), 2021-2025, 无业游民
  * @ProjectName:    KotlinStudyDemo1
  * @Package:        com.ideacode.kotlinstudydemo1.base
  * @ClassName:      BaseView

@@ -13,7 +13,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 /**
- * Copyright (C), 2021-2025, 百度阿波罗
+ * Copyright (C), 2021-2025, 无业游民
  * @ProjectName:    KotlinStudyDemo1
  * @Package:        com.ideacode.kotlinstudydemo1.api
  * @ClassName:      RetrofitUtil
@@ -39,7 +39,7 @@ class RetrofitUtil {
 
     fun creat(url : String): Retrofit {
         val level : HttpLoggingInterceptor.Level = HttpLoggingInterceptor.Level.BODY
-        val loggingInterceptor: HttpLoggingInterceptor = HttpLoggingInterceptor({
+        val loggingInterceptor = HttpLoggingInterceptor({
             Log.e(TAG, "OkHttp:$it")
         })
 
